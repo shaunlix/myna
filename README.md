@@ -1,2 +1,3 @@
 # myna
-we are spring three
+
+对设计模式的学习
