@@ -1,4 +1,4 @@
-package pattern.factorymethod;
+package pattern.simplefactory;
 
 /**
  * @author lixiangxiang | 2019/8/7

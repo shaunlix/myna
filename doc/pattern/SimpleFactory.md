@@ -1,4 +1,4 @@
-# 简单工厂模式(Factory Method Pattern)
+# 简单工厂模式(Simple Factory Pattern)
 
 ### 模式简介
 

@@ -1,4 +1,4 @@
-package pattern.factorymethod;
+package pattern.simplefactory;
 
 /**
  * 简单工厂模式

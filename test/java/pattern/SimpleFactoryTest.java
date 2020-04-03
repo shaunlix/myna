@@ -2,8 +2,8 @@ package pattern;
 
 import org.junit.Assert;
 import org.junit.Test;
-import pattern.factorymethod.Operation;
-import pattern.factorymethod.OperationFactory;
+import pattern.simplefactory.Operation;
+import pattern.simplefactory.OperationFactory;
 
 /**
  * @author lixiangxiang | 2019/8/7
