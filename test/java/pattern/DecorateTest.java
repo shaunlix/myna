@@ -1,7 +1,7 @@
 package pattern;
 
-import pattern.decorate.Angler;
-import pattern.decorate.Driver;
+import pattern.decorate.WalkSkill;
+import pattern.decorate.TalkSkill;
 import pattern.decorate.Man;
 
 /**
@@ -11,6 +11,6 @@ public class DecorateTest {
 
     public static void main(String[] args) {
         Man richard = new Man("Richard");
-        new Driver(new Angler(richard)).sayMySkills();
+        new TalkSkill(new WalkSkill(richard)).sayMySkills();
     }
 }
